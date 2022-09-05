@@ -3,10 +3,10 @@
 
 def login():
     """Login function"""
-    print("Login")
+    return "Login"
 
 
 ## create logout function
 def logout():
     """Logout function"""
-    print("Logout")
+    return "Logout"
