@@ -10,3 +10,4 @@ def login():
 def logout():
     """Logout function"""
     return "Logout"
+    
