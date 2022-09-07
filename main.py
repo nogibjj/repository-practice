@@ -1,13 +1,5 @@
-## create login function
-"""login and logout functions"""
+# import dask
+import dask
+import dask.dataframe as dd
 
-def login():
-    """Login function"""
-    return "Login"
-
-
-## create logout function
-def logout():
-    """Logout function"""
-    return "Logout"
-    
+# read in kaggle data
